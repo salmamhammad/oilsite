@@ -62,3 +62,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Project
+
+Azadenergy Power and Energy Company website An integrated website with a modern design and
+compatibility with all dimensions of computers, mobile phones and tablets
+A fully programmed website with a control panel protected with md5 encryption to control the site's
+content and integration
+Programming and design were done according to
+HTML5,CSS5,BOOTSTRAP5,JAVASCRIPT,JQUERY,AJAX,PHP7.4,LARAVEL8
+Link https://azadenergy.com/
